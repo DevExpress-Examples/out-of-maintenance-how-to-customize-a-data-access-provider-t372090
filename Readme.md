@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomMsSqlConnectionProvider.cs](./CS/ProviderCustomization/CustomMsSqlConnectionProvider.cs) (VB: [CustomMsSqlConnectionProvider.vb](./VB/ProviderCustomization/CustomMsSqlConnectionProvider.vb))
+* [Program.cs](./CS/QB/Program.cs) (VB: [Program.vb](./VB/QB/Program.vb))
+* [QBForm.cs](./CS/QB/QBForm.cs) (VB: [QBForm.vb](./VB/QB/QBForm.vb))
+<!-- default file list end -->
 # How to customize a Data Access provider
 
 
